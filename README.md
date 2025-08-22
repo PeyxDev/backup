@@ -58,8 +58,8 @@
 
 ### 🌐 **Connect With Me**
 <p align="center">
-  <a href="https://wa.me/62831516369211"><img src="https://img.shields.io/badge/GitHub-PeyxDev-black?style=for-the-badge&logo=github" /></a>
-  <a href="https://t.me/PeyxDev"><img src="https://img.shields.io/badge/Telegram-PeyxDev-blue?style=for-the-badge&logo=telegram" /></a>
+  <a href="https://github.com/PeyxDev"><img src="https://img.shields.io/badge/GitHub-PeyxDev-black?style=for-the-badge&logo=github" /></a>
+  <a href="https://t.me/frel01"><img src="https://img.shields.io/badge/Telegram-PeyxDev-blue?style=for-the-badge&logo=telegram" /></a>
 </p>
 
 ---
