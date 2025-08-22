@@ -10,9 +10,9 @@
 
 <!-- Typing Effect -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=FF00FF&center=true&vCenter=true&width=550&lines=✨+Welcome+to+PeyxDev+✨;Code+%7C+Build+%7C+Create;Let's+Innovate!+🚀" alt="Typing SVG" />
-</h1>
-
+  <img src="https://readme-typing-<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&duration=4000&pause=1000&color=FF00FF&center=true&vCenter=true&width=600&lines=%E2%9C%A8+Welcome+to+PeyxDev+%E2%9C%A8;Code+%7C+Build+%7C+Create;Let's+Innovate!+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
 ---
 
 <!-- Anime Coding GIF -->
