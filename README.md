@@ -48,7 +48,7 @@
 
 ---
 
-### 🎌 **Anime Aesthetic**
+### 🎌 **Anime**
 <p align="center">
   <img src="https://media.giphy.com/media/Zd6wqgCGsTjtm/giphy.gif" width="250px" alt="Anime Hacker"/>
   <img src="https://media.giphy.com/media/9J7tdYltWyXIY/giphy.gif" width="250px" alt="Anime Coding"/>
@@ -58,7 +58,7 @@
 
 ### 🌐 **Connect With Me**
 <p align="center">
-  <a href="https://github.com/PeyxDev"><img src="https://img.shields.io/badge/GitHub-PeyxDev-black?style=for-the-badge&logo=github" /></a>
+  <a href="https://wa.me/62831516369211"><img src="https://img.shields.io/badge/GitHub-PeyxDev-black?style=for-the-badge&logo=github" /></a>
   <a href="https://t.me/PeyxDev"><img src="https://img.shields.io/badge/Telegram-PeyxDev-blue?style=for-the-badge&logo=telegram" /></a>
 </p>
 
