@@ -1,0 +1,4044 @@
+{
+  "meta": {
+    "createdAt": "2026-05-23T08:49:48.425Z",
+    "label": "auto",
+    "version": "2.0",
+    "id": "tele_mpi3y2rs_93be7d"
+  },
+  "servers": {
+    "servers": {
+      "server1": {
+        "name": "ID DEWABIZ SSH",
+        "api_url": "http://server.pxstore.web.id:8585",
+        "auth_key": "PX-DQnzfpJKPd",
+        "type": "ssh",
+        "harga_per_hari": 300
+      },
+      "server2": {
+        "name": "ID DEWABIZ XRAY",
+        "api_url": "http://server.pxstore.web.id:8585",
+        "auth_key": "PX-DQnzfpJKPd",
+        "type": "xray",
+        "harga_per_hari": 334
+      },
+      "server3": {
+        "name": "ID DEWABIZ ZIVPN",
+        "api_url": "http://server.pxstore.web.id:8585",
+        "auth_key": "PX-DQnzfpJKPd",
+        "type": "zivpn",
+        "harga_per_hari": 300
+      },
+      "server4": {
+        "name": "ID BIZNET XRAY",
+        "api_url": "http://core.pxstore.web.id:8585",
+        "auth_key": "PX-1k4WmlvUNE",
+        "type": "xray",
+        "harga_per_hari": 334
+      },
+      "server5": {
+        "name": "ID BIZNET ZIVPN",
+        "api_url": "http://core.pxstore.web.id:8585",
+        "auth_key": "PX-1k4WmlvUNE",
+        "type": "zivpn",
+        "harga_per_hari": 300
+      }
+    }
+  },
+  "saldo": {
+    "215957266": 194,
+    "7661292905": 843509,
+    "7037779475": 256,
+    "8557676925": 1320,
+    "8018158692": 0
+  },
+  "akun": {
+    "215957266": [
+      {
+        "username": "4455",
+        "password": "4455",
+        "uuid": "4455",
+        "expired": "3 Jun 2026",
+        "iplimit": 1,
+        "quota": 1000,
+        "domain": "core.pxstore.web.id",
+        "serviceType": "zivpn",
+        "serverName": "ID BIZNET",
+        "createdAt": "2026-05-15T17:01:35.342Z",
+        "status": "active",
+        "expiredTimestamp": 1780480799000
+      }
+    ],
+    "7661292905": [
+      {
+        "username": "fuji",
+        "password": "fuji",
+        "uuid": "fuji",
+        "expired": "10 Jun 2026",
+        "iplimit": 1,
+        "quota": 1000,
+        "domain": "core.pxstore.web.id",
+        "serviceType": "zivpn",
+        "serverName": "ID BIZNET",
+        "createdAt": "2026-05-11T05:44:08.404Z",
+        "status": "active",
+        "expiredTimestamp": 1781085599000
+      },
+      {
+        "username": "mint",
+        "password": "choco",
+        "uuid": "choco",
+        "expired": "27 Mei 2026",
+        "iplimit": 1,
+        "quota": 1000,
+        "domain": "cloud.peyx.site",
+        "serviceType": "ssh",
+        "serverName": "ID NEVACLOUD",
+        "createdAt": "2026-05-12T12:06:16.531Z",
+        "status": "active",
+        "expiredTimestamp": 1779875999000
+      },
+      {
+        "username": "rahmatmaulana",
+        "password": "Pesandulu12345",
+        "uuid": "Pesandulu12345",
+        "expired": "2 Jul 2026",
+        "iplimit": 1,
+        "quota": 1000,
+        "domain": "cloud.peyx.site",
+        "serviceType": "trojan",
+        "serverName": "ID NEVACLOUD",
+        "createdAt": "2026-05-12T12:35:00.451Z",
+        "status": "active",
+        "expiredTimestamp": 1782986399000
+      },
+      {
+        "username": "rafi",
+        "password": "869e44fa-98a2-4f5d-b383-9c78bd0093e2",
+        "uuid": "869e44fa-98a2-4f5d-b383-9c78bd0093e2",
+        "expired": "29 Mei 2026",
+        "iplimit": 1,
+        "quota": 1000,
+        "domain": "cloud.peyx.site",
+        "serviceType": "vmess",
+        "serverName": "ID NEVACLOUD",
+        "createdAt": "2026-05-12T14:09:52.773Z",
+        "status": "active",
+        "expiredTimestamp": 1780048799000
+      },
+      {
+        "username": "gogon",
+        "password": "6a118ec3-6707-4db1-bbf7-d63410266749",
+        "uuid": "6a118ec3-6707-4db1-bbf7-d63410266749",
+        "expired": "26 Mei 2026",
+        "iplimit": 1,
+        "quota": 1000,
+        "domain": "cloud.peyx.site",
+        "serviceType": "vmess",
+        "serverName": "ID NEVACLOUD",
+        "createdAt": "2026-05-12T23:02:53.129Z",
+        "status": "active",
+        "expiredTimestamp": 1779789599000
+      },
+      {
+        "username": "kaindra",
+        "password": "kaindra",
+        "uuid": "kaindra",
+        "expired": "12 Jun 2026",
+        "iplimit": 1,
+        "quota": 1000,
+        "domain": "core.pxstore.web.id",
+        "serviceType": "zivpn",
+        "serverName": "ID BIZNET",
+        "createdAt": "2026-05-13T01:24:19.011Z",
+        "status": "active",
+        "expiredTimestamp": 1781258399000
+      },
+      {
+        "username": "exp31mei2026",
+        "password": "jossss",
+        "uuid": "jossss",
+        "expired": "31 Mei 2026",
+        "iplimit": 1,
+        "quota": 1000,
+        "domain": "cloud.peyx.site",
+        "serviceType": "vmess",
+        "serverName": "ID NEVACLOUD",
+        "createdAt": "2026-05-13T04:54:55.274Z",
+        "status": "active",
+        "expiredTimestamp": 1780221599000
+      },
+      {
+        "username": "gogon",
+        "password": "6a118ec3-6707-4db1-bbf7-d63410266749",
+        "uuid": "6a118ec3-6707-4db1-bbf7-d63410266749",
+        "expired": "26 Mei 2026",
+        "iplimit": 1,
+        "quota": 1000,
+        "domain": "server.pxstore.web.id",
+        "serviceType": "vmess",
+        "serverName": "ID DEWABIZ",
+        "createdAt": "2026-05-13T05:30:17.722Z",
+        "status": "active",
+        "expiredTimestamp": 1779789599000
+      },
+      {
+        "username": "rafi",
+        "password": "h4rk0p7mcr",
+        "uuid": "h4rk0p7mcr",
+        "expired": "30 Mei 2026",
+        "iplimit": 1,
+        "quota": 1000,
+        "domain": "server.pxstore.web.id",
+        "serviceType": "vmess",
+        "serverName": "ID DEWABIZ",
+        "createdAt": "2026-05-13T05:33:55.209Z",
+        "status": "active",
+        "expiredTimestamp": 1780135199000
+      },
+      {
+        "username": "rahmatmaulana",
+        "password": "Pesandulu12345",
+        "uuid": "Pesandulu12345",
+        "expired": "5 Jul 2026",
+        "iplimit": 1,
+        "quota": 1000,
+        "domain": "server.pxstore.web.id",
+        "serviceType": "trojan",
+        "serverName": "ID DEWABIZ",
+        "createdAt": "2026-05-13T06:07:58.764Z",
+        "status": "active",
+        "expiredTimestamp": 1783245599000
+      },
+      {
+        "username": "rahmatmaulana",
+        "password": "Pesandulu12345",
+        "uuid": "Pesandulu12345",
+        "expired": "5 Jul 2026",
+        "iplimit": 1,
+        "quota": 1000,
+        "domain": "server.pxstore.web.id",
+        "serviceType": "trojan",
+        "serverName": "ID DEWABIZ",
+        "createdAt": "2026-05-13T07:21:36.611Z",
+        "status": "active",
+        "expiredTimestamp": 1783245599000
+      },
+      {
+        "username": "rafi",
+        "password": "h4rk0p7mcr",
+        "uuid": "h4rk0p7mcr",
+        "expired": "31 Mei 2026",
+        "iplimit": 1,
+        "quota": 1000,
+        "domain": "server.pxstore.web.id",
+        "serviceType": "vmess",
+        "serverName": "ID DEWABIZ",
+        "createdAt": "2026-05-13T07:23:42.616Z",
+        "status": "active",
+        "expiredTimestamp": 1780221599000
+      },
+      {
+        "username": "gogon",
+        "password": "6a118ec3-6707-4db1-bbf7-d63410266749",
+        "uuid": "6a118ec3-6707-4db1-bbf7-d63410266749",
+        "expired": "26 Mei 2026",
+        "iplimit": 1,
+        "quota": 1000,
+        "domain": "server.pxstore.web.id",
+        "serviceType": "vmess",
+        "serverName": "ID DEWABIZ",
+        "createdAt": "2026-05-13T07:25:38.291Z",
+        "status": "active",
+        "expiredTimestamp": 1779789599000
+      },
+      {
+        "username": "kempong",
+        "password": "91PabuayQe",
+        "uuid": "91PabuayQe",
+        "expired": "25 Mei 2026",
+        "iplimit": 1,
+        "quota": 1000,
+        "domain": "server.pxstore.web.id",
+        "serviceType": "ssh",
+        "serverName": "ID DEWABIZ",
+        "createdAt": "2026-05-13T10:04:18.239Z",
+        "status": "active",
+        "expiredTimestamp": 1779703199000
+      },
+      {
+        "username": "rafzx",
+        "password": "store",
+        "uuid": "store",
+        "expired": "14 Jun 2026",
+        "iplimit": 1,
+        "quota": 1000,
+        "domain": "server.pxstore.web.id",
+        "serviceType": "ssh",
+        "serverName": "ID DEWABIZ",
+        "createdAt": "2026-05-14T22:47:35.777Z",
+        "status": "active",
+        "expiredTimestamp": 1781431199000
+      },
+      {
+        "username": "hidayat98",
+        "password": "6jsq4hkd7m",
+        "uuid": "6jsq4hkd7m",
+        "expired": "13 Jun 2026",
+        "iplimit": 1,
+        "quota": 1000,
+        "domain": "server.pxstore.web.id",
+        "serviceType": "vmess",
+        "serverName": "ID DEWABIZ",
+        "serverId": "server2",
+        "expiredTimestamp": 1781344799000,
+        "createdAt": "2026-05-16T06:58:18.766Z",
+        "status": "active"
+      },
+      {
+        "username": "Deden123",
+        "password": "Deden123",
+        "uuid": "Deden123",
+        "expired": "15 Jun 2026",
+        "iplimit": 1,
+        "quota": 1000,
+        "domain": "server.pxstore.web.id",
+        "serviceType": "zivpn",
+        "serverName": "ID DEWABIZ",
+        "serverId": "server3",
+        "expiredTimestamp": 1781517599000,
+        "createdAt": "2026-05-16T15:19:21.320Z",
+        "status": "active"
+      },
+      {
+        "username": "rahmatmaulana",
+        "password": "Pesandulu12345",
+        "uuid": "Pesandulu12345",
+        "expired": "5 Jul 2026",
+        "iplimit": 1,
+        "quota": 1000,
+        "domain": "server.pxstore.web.id",
+        "serviceType": "trojan",
+        "serverName": "ID DEWABIZ",
+        "serverId": "server2",
+        "expiredTimestamp": 1783245599000,
+        "createdAt": "2026-05-18T04:39:57.123Z",
+        "status": "active"
+      },
+      {
+        "username": "edukasi",
+        "password": "8qamwHDkpV",
+        "uuid": "8qamwHDkpV",
+        "expired": "18 Jun 2026",
+        "iplimit": 2,
+        "quota": 0,
+        "domain": "server.pxstore.web.id",
+        "serviceType": "ssh",
+        "serverName": "ID DEWABIZ SSH",
+        "serverId": "server1",
+        "expiredTimestamp": 1781776799000,
+        "createdAt": "2026-05-19T09:43:54.163Z",
+        "status": "active"
+      },
+      {
+        "username": "jdksksk",
+        "password": "e6e27039-1b99-4730-954e-c83af26211d5",
+        "uuid": "e6e27039-1b99-4730-954e-c83af26211d5",
+        "expired": "4 Jun 2026",
+        "iplimit": 1,
+        "quota": 0,
+        "domain": "core.pxstore.web.id",
+        "serviceType": "vmess",
+        "serverName": "ID BIZNET XRAY",
+        "serverId": "server4",
+        "expiredTimestamp": 1780567199000,
+        "createdAt": "2026-05-19T17:22:19.346Z",
+        "status": "active"
+      },
+      {
+        "username": "febru",
+        "password": "vNxdyzr32L",
+        "uuid": "vNxdyzr32L",
+        "expired": "19 Jun 2026",
+        "iplimit": 1,
+        "quota": 0,
+        "domain": "server.pxstore.web.id",
+        "serviceType": "ssh",
+        "serverName": "ID DEWABIZ SSH",
+        "serverId": "server1",
+        "expiredTimestamp": 1781863199000,
+        "createdAt": "2026-05-20T15:02:09.669Z",
+        "status": "active"
+      },
+      {
+        "username": "tes",
+        "password": "fi2am3apnh",
+        "uuid": "fi2am3apnh",
+        "expired": "23 Mei 2026",
+        "iplimit": 1,
+        "quota": 0,
+        "domain": "server.pxstore.web.id",
+        "serviceType": "ssh",
+        "serverName": "ID DEWABIZ SSH",
+        "serverId": "server1",
+        "expiredTimestamp": 1779530399000,
+        "createdAt": "2026-05-21T19:51:44.597Z",
+        "status": "active"
+      },
+      {
+        "username": "bodrex",
+        "password": "q2d8jpy1ca",
+        "uuid": "q2d8jpy1ca",
+        "expired": "29 Mei 2026",
+        "iplimit": 1,
+        "quota": 0,
+        "domain": "server.pxstore.web.id",
+        "serviceType": "ssh",
+        "serverName": "ID DEWABIZ SSH",
+        "serverId": "server1",
+        "expiredTimestamp": 1780048799000,
+        "createdAt": "2026-05-22T02:41:23.154Z",
+        "status": "active"
+      },
+      {
+        "serviceType": "ssh",
+        "username": "ferdian",
+        "password": "z3peolpq9e",
+        "serverId": "server1",
+        "serverName": "ID DEWABIZ SSH",
+        "iplimit": 2,
+        "hargaPerJam": 10,
+        "payAsYouGo": true,
+        "status": "active",
+        "userName": "ＰＥＹＸ",
+        "createdAt": "2026-05-22T05:22:22.996Z",
+        "paygLastDeduct": "2026-05-23T08:24:41.211Z",
+        "paygNextDeduct": "2026-05-23T09:24:41.211Z"
+      }
+    ],
+    "7037779475": [
+      {
+        "username": "Deden123",
+        "password": "Deden123",
+        "uuid": "Deden123",
+        "expired": "15 Jun 2026",
+        "iplimit": 1,
+        "quota": 1000,
+        "domain": "server.pxstore.web.id",
+        "serviceType": "zivpn",
+        "serverName": "ID DEWABIZ",
+        "serverId": "server3",
+        "expiredTimestamp": 1781517599000,
+        "createdAt": "2026-05-16T15:05:43.364Z",
+        "status": "active"
+      }
+    ],
+    "8557676925": [
+      {
+        "username": "/admin",
+        "password": "/admin",
+        "uuid": "/admin",
+        "expired": "10 Jun 2026",
+        "iplimit": 2,
+        "quota": 0,
+        "domain": "core.pxstore.web.id",
+        "serviceType": "zivpn",
+        "serverName": "ID BIZNET ZIVPN",
+        "serverId": "server5",
+        "expiredTimestamp": 1781085599000,
+        "createdAt": "2026-05-21T06:58:50.188Z",
+        "status": "active"
+      }
+    ]
+  },
+  "transaksi": [
+    {
+      "txId": "TX2468131437",
+      "userId": "7661292905",
+      "type": "payg_deduct",
+      "amount": 10,
+      "keterangan": "PAYG/jam: ferdian (SSH)",
+      "waktu": "2026-05-23T08:24:41.211Z",
+      "status": "success",
+      "userName": "ＰＥＹＸ"
+    },
+    {
+      "txId": "TX2108007845",
+      "userId": "7661292905",
+      "type": "payg_deduct",
+      "amount": 10,
+      "keterangan": "PAYG/jam: ferdian (SSH)",
+      "waktu": "2026-05-23T07:24:39.977Z",
+      "status": "success",
+      "userName": "ＰＥＹＸ"
+    },
+    {
+      "txId": "TX1747903678",
+      "userId": "7661292905",
+      "type": "payg_deduct",
+      "amount": 10,
+      "keterangan": "PAYG/jam: ferdian (SSH)",
+      "waktu": "2026-05-23T06:24:38.934Z",
+      "status": "success",
+      "userName": "ＰＥＹＸ"
+    },
+    {
+      "txId": "TX1387786690",
+      "userId": "7661292905",
+      "type": "payg_deduct",
+      "amount": 10,
+      "keterangan": "PAYG/jam: ferdian (SSH)",
+      "waktu": "2026-05-23T05:24:37.764Z",
+      "status": "success",
+      "userName": "ＰＥＹＸ"
+    },
+    {
+      "txId": "TX1027673244",
+      "userId": "7661292905",
+      "type": "payg_deduct",
+      "amount": 10,
+      "keterangan": "PAYG/jam: ferdian (SSH)",
+      "waktu": "2026-05-23T04:24:36.630Z",
+      "status": "success",
+      "userName": "ＰＥＹＸ"
+    },
+    {
+      "txId": "TX0667547561",
+      "userId": "7661292905",
+      "type": "payg_deduct",
+      "amount": 10,
+      "keterangan": "PAYG/jam: ferdian (SSH)",
+      "waktu": "2026-05-23T03:24:35.371Z",
+      "status": "success",
+      "userName": "ＰＥＹＸ"
+    },
+    {
+      "txId": "TX0307436278",
+      "userId": "7661292905",
+      "type": "payg_deduct",
+      "amount": 10,
+      "keterangan": "PAYG/jam: ferdian (SSH)",
+      "waktu": "2026-05-23T02:24:34.261Z",
+      "status": "success",
+      "userName": "ＰＥＹＸ"
+    },
+    {
+      "txId": "TX9947320894",
+      "userId": "7661292905",
+      "type": "payg_deduct",
+      "amount": 10,
+      "keterangan": "PAYG/jam: ferdian (SSH)",
+      "waktu": "2026-05-23T01:24:33.106Z",
+      "status": "success",
+      "userName": "ＰＥＹＸ"
+    },
+    {
+      "txId": "TX9587196243",
+      "userId": "7661292905",
+      "type": "payg_deduct",
+      "amount": 10,
+      "keterangan": "PAYG/jam: ferdian (SSH)",
+      "waktu": "2026-05-23T00:24:31.860Z",
+      "status": "success",
+      "userName": "ＰＥＹＸ"
+    },
+    {
+      "txId": "TX9329541549",
+      "userId": "6410281684",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial632371 (SSH)",
+      "waktu": "2026-05-22T23:41:35.415Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX9227078915",
+      "userId": "7661292905",
+      "type": "payg_deduct",
+      "amount": 10,
+      "keterangan": "PAYG/jam: ferdian (SSH)",
+      "waktu": "2026-05-22T23:24:30.687Z",
+      "status": "success",
+      "userName": "ＰＥＹＸ"
+    },
+    {
+      "txId": "TX8866976376",
+      "userId": "7661292905",
+      "type": "payg_deduct",
+      "amount": 10,
+      "keterangan": "PAYG/jam: ferdian (SSH)",
+      "waktu": "2026-05-22T22:24:29.661Z",
+      "status": "success",
+      "userName": "ＰＥＹＸ"
+    },
+    {
+      "txId": "TX8627498743",
+      "userId": "6410281684",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial649253 (SSH)",
+      "waktu": "2026-05-22T21:44:34.987Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX8506861887",
+      "userId": "7661292905",
+      "type": "payg_deduct",
+      "amount": 10,
+      "keterangan": "PAYG/jam: ferdian (SSH)",
+      "waktu": "2026-05-22T21:24:28.516Z",
+      "status": "success",
+      "userName": "ＰＥＹＸ"
+    },
+    {
+      "txId": "TX8146751166",
+      "userId": "7661292905",
+      "type": "payg_deduct",
+      "amount": 10,
+      "keterangan": "PAYG/jam: ferdian (SSH)",
+      "waktu": "2026-05-22T20:24:27.409Z",
+      "status": "success",
+      "userName": "ＰＥＹＸ"
+    },
+    {
+      "txId": "TX7786629846",
+      "userId": "7661292905",
+      "type": "payg_deduct",
+      "amount": 10,
+      "keterangan": "PAYG/jam: ferdian (SSH)",
+      "waktu": "2026-05-22T19:24:26.196Z",
+      "status": "success",
+      "userName": "ＰＥＹＸ"
+    },
+    {
+      "txId": "TX7774791540",
+      "userId": "215957266",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial130701 (SSH)",
+      "waktu": "2026-05-22T19:22:27.920Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX7426494939",
+      "userId": "7661292905",
+      "type": "payg_deduct",
+      "amount": 10,
+      "keterangan": "PAYG/jam: ferdian (SSH)",
+      "waktu": "2026-05-22T18:24:24.847Z",
+      "status": "success",
+      "userName": "ＰＥＹＸ"
+    },
+    {
+      "txId": "TX7066364233",
+      "userId": "7661292905",
+      "type": "payg_deduct",
+      "amount": 10,
+      "keterangan": "PAYG/jam: ferdian (SSH)",
+      "waktu": "2026-05-22T17:24:23.541Z",
+      "status": "success",
+      "userName": "ＰＥＹＸ"
+    },
+    {
+      "txId": "TX6706251351",
+      "userId": "7661292905",
+      "type": "payg_deduct",
+      "amount": 10,
+      "keterangan": "PAYG/jam: ferdian (SSH)",
+      "waktu": "2026-05-22T16:24:22.411Z",
+      "status": "success",
+      "userName": "ＰＥＹＸ"
+    },
+    {
+      "txId": "TX6346129280",
+      "userId": "7661292905",
+      "type": "payg_deduct",
+      "amount": 10,
+      "keterangan": "PAYG/jam: ferdian (SSH)",
+      "waktu": "2026-05-22T15:24:21.187Z",
+      "status": "success",
+      "userName": "ＰＥＹＸ"
+    },
+    {
+      "txId": "TX5986016442",
+      "userId": "7661292905",
+      "type": "payg_deduct",
+      "amount": 10,
+      "keterangan": "PAYG/jam: ferdian (SSH)",
+      "waktu": "2026-05-22T14:24:20.062Z",
+      "status": "success",
+      "userName": "ＰＥＹＸ"
+    },
+    {
+      "txId": "TX5625923906",
+      "userId": "7661292905",
+      "type": "payg_deduct",
+      "amount": 10,
+      "keterangan": "PAYG/jam: ferdian (SSH)",
+      "waktu": "2026-05-22T13:24:19.137Z",
+      "status": "success",
+      "userName": "ＰＥＹＸ"
+    },
+    {
+      "txId": "TX5379906004",
+      "userId": "8557676925",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trialdxqe6asj (ZIVPN)",
+      "waktu": "2026-05-22T12:43:19.061Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX5265804537",
+      "userId": "7661292905",
+      "type": "payg_deduct",
+      "amount": 10,
+      "keterangan": "PAYG/jam: ferdian (SSH)",
+      "waktu": "2026-05-22T12:24:17.943Z",
+      "status": "success",
+      "userName": "ＰＥＹＸ"
+    },
+    {
+      "txId": "TX4905676789",
+      "userId": "7661292905",
+      "type": "payg_deduct",
+      "amount": 10,
+      "keterangan": "PAYG/jam: ferdian (SSH)",
+      "waktu": "2026-05-22T11:24:16.666Z",
+      "status": "success",
+      "userName": "ＰＥＹＸ"
+    },
+    {
+      "txId": "TX4545547139",
+      "userId": "7661292905",
+      "type": "payg_deduct",
+      "amount": 10,
+      "keterangan": "PAYG/jam: ferdian (SSH)",
+      "waktu": "2026-05-22T10:24:15.369Z",
+      "status": "success",
+      "userName": "ＰＥＹＸ"
+    },
+    {
+      "txId": "TX4401666312",
+      "userId": "7661292905",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: pmdaja (SSH)",
+      "waktu": "2026-05-22T10:00:16.663Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX4185419698",
+      "userId": "7661292905",
+      "type": "payg_deduct",
+      "amount": 10,
+      "keterangan": "PAYG/jam: ferdian (SSH)",
+      "waktu": "2026-05-22T09:24:14.093Z",
+      "status": "success",
+      "userName": "ＰＥＹＸ"
+    },
+    {
+      "txId": "TX3822238156",
+      "userId": "7661292905",
+      "type": "payg_deduct",
+      "amount": 10,
+      "keterangan": "PAYG/jam: ferdian (SSH)",
+      "waktu": "2026-05-22T08:23:42.278Z",
+      "status": "success",
+      "userName": "ＰＥＹＸ"
+    },
+    {
+      "txId": "TX3609981810",
+      "userId": "7661292905",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial478962 (VMESS)",
+      "waktu": "2026-05-22T07:48:19.818Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX3459791538",
+      "userId": "7661292905",
+      "type": "payg_deduct",
+      "amount": 10,
+      "keterangan": "PAYG/jam: ferdian (SSH)",
+      "waktu": "2026-05-22T07:23:17.813Z",
+      "status": "success",
+      "userName": "ＰＥＹＸ"
+    },
+    {
+      "txId": "TX3095323682",
+      "userId": "7661292905",
+      "type": "payg_deduct",
+      "amount": 10,
+      "keterangan": "PAYG/jam: ferdian (SSH)",
+      "waktu": "2026-05-22T06:22:33.135Z",
+      "status": "success",
+      "userName": "ＰＥＹＸ"
+    },
+    {
+      "txId": "TX2734299704",
+      "userId": "7661292905",
+      "userName": "ＰＥＹＸ",
+      "type": "payg_create",
+      "amount": 10,
+      "keterangan": "Aktivasi PAYG SSH ferdian (Rp 10/jam)",
+      "waktu": "2026-05-22T05:22:22.997Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX2726553322",
+      "userId": "7661292905",
+      "userName": "ＰＥＹＸ",
+      "type": "create",
+      "amount": 217000,
+      "keterangan": "Create SSH peyx 1000hr",
+      "waktu": "2026-05-22T05:21:05.533Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX2507304669",
+      "userId": "7661292905",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial427503 (SSH)",
+      "waktu": "2026-05-22T04:44:33.046Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX1768102181",
+      "userId": "7661292905",
+      "userName": "ＰＥＹＸ",
+      "type": "create",
+      "amount": 1050,
+      "keterangan": "Create SSH bodrex 7hr",
+      "waktu": "2026-05-22T02:41:21.021Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX1150807395",
+      "userId": "930675610",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trialce6m8oor (ZIVPN)",
+      "waktu": "2026-05-22T00:58:28.073Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX0436609493",
+      "userId": "6319982927",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trialide72xrv (ZIVPN)",
+      "waktu": "2026-05-21T22:59:26.094Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX9620422257",
+      "userId": "7661292905",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial550437 (VMESS)",
+      "waktu": "2026-05-21T20:43:24.222Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX9310243957",
+      "userId": "7661292905",
+      "userName": "ＰＥＹＸ",
+      "type": "create",
+      "amount": 150,
+      "keterangan": "Create SSH tes 1hr",
+      "waktu": "2026-05-21T19:51:42.439Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX5356595710",
+      "userId": "8018158692",
+      "userName": "PeyxDev",
+      "type": "reseller_join",
+      "amount": 30000,
+      "keterangan": "Daftar Reseller",
+      "waktu": "2026-05-21T08:52:45.959Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX5354383608",
+      "userId": "8018158692",
+      "userName": "PeyxDev",
+      "type": "admin_add",
+      "amount": 30000,
+      "keterangan": "Admin tambah saldo dari ＰＥＹＸ",
+      "waktu": "2026-05-21T08:52:23.836Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX5214789501",
+      "userId": "8271933747",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial523831 (SSH)",
+      "waktu": "2026-05-21T08:29:07.895Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX4672976003",
+      "userId": "8557676925",
+      "userName": "Arfan",
+      "type": "create",
+      "amount": 8680,
+      "keterangan": "Create ZIVPN /admin 20hr",
+      "waktu": "2026-05-21T06:58:49.760Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX4667227191",
+      "userId": "8557676925",
+      "userName": "Arfan",
+      "type": "topup",
+      "amount": 5000,
+      "keterangan": "Topup Saldo oleh Arfan",
+      "waktu": "2026-05-21T06:57:52.271Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX4548492752",
+      "userId": "7661292905",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial840555 (VMESS)",
+      "waktu": "2026-05-21T06:38:04.927Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX3306570084",
+      "userId": "8127231874",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial448491 (TROJAN)",
+      "waktu": "2026-05-21T03:11:05.700Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX2579946105",
+      "userId": "8127231874",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial152339 (SSH)",
+      "waktu": "2026-05-21T01:09:59.461Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX0005111294",
+      "userId": "7724790316",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial422847 (SSH)",
+      "waktu": "2026-05-20T18:00:51.112Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX8932639076",
+      "userId": "7661292905",
+      "userName": "ＰＥＹＸ",
+      "type": "create",
+      "amount": 4500,
+      "keterangan": "Create SSH febru 30hr",
+      "waktu": "2026-05-20T15:02:06.390Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX8546484776",
+      "userId": "8557676925",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trialkmkg01ow (ZIVPN)",
+      "waktu": "2026-05-20T13:57:44.847Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX8480510417",
+      "userId": "8557676925",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial1iz76jew (ZIVPN)",
+      "waktu": "2026-05-20T13:46:45.104Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX7306567431",
+      "userId": "7761880504",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial424587 (SSH)",
+      "waktu": "2026-05-20T10:31:05.675Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX7120500636",
+      "userId": "7661292905",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: hdhdjss (VMESS)",
+      "waktu": "2026-05-20T10:00:05.006Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX2030385606",
+      "userId": "7661292905",
+      "userName": "ＰＥＹＸ",
+      "type": "payg_stop",
+      "amount": 0,
+      "keterangan": "User stop PAYG: bsndns (VMESS)",
+      "waktu": "2026-05-19T19:51:43.857Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX2026375286",
+      "userId": "7661292905",
+      "userName": "ＰＥＹＸ",
+      "type": "payg_create",
+      "amount": 7,
+      "keterangan": "Aktivasi PAYG VMESS bsndns (Rp 7/jam)",
+      "waktu": "2026-05-19T19:51:03.752Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX1157125390",
+      "userId": "7661292905",
+      "type": "payg_stop",
+      "amount": 0,
+      "keterangan": "User stop PAYG: jjgy (VMESS)",
+      "waktu": "2026-05-19T17:26:11.253Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX1152553207",
+      "userId": "7661292905",
+      "type": "payg_create",
+      "amount": 12,
+      "keterangan": "Aktivasi PAYG VMESS jjgy (Rp 12/jam)",
+      "waktu": "2026-05-19T17:25:25.532Z",
+      "status": "success"
+    },
+    {
+      "amount": 2505,
+      "keterangan": "ＰＥＹＸ create VMESS jdksksk 15hr",
+      "waktu": "2026-05-19T17:22:15.295Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX1124072687",
+      "userId": "7661292905",
+      "userName": "ＰＥＹＸ",
+      "type": "reseller_join",
+      "amount": 30000,
+      "keterangan": "Daftar Reseller",
+      "waktu": "2026-05-19T17:20:40.727Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX0639883804",
+      "userId": "6103561207",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial1hcsxete (ZIVPN)",
+      "waktu": "2026-05-19T15:59:58.838Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX9451720105",
+      "userId": "2005622613",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trialo36adnsh (ZIVPN)",
+      "waktu": "2026-05-19T12:41:57.202Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX8656146602",
+      "userId": "7661292905",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial951528 (TROJAN)",
+      "waktu": "2026-05-19T10:29:21.467Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX8632453099",
+      "userId": "7661292905",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial647074 (VMESS)",
+      "waktu": "2026-05-19T10:25:24.530Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX8623851430",
+      "userId": "7661292905",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial614023 (VLESS)",
+      "waktu": "2026-05-19T10:23:58.514Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX8602560855",
+      "userId": "7661292905",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial367180 (VMESS)",
+      "waktu": "2026-05-19T10:20:25.610Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX8531032173",
+      "userId": "7661292905",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial666277 (VMESS)",
+      "waktu": "2026-05-19T10:08:30.321Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX8524640140",
+      "userId": "7661292905",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial590412 (TROJAN)",
+      "waktu": "2026-05-19T10:07:26.401Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX8518530583",
+      "userId": "7661292905",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial535925 (VMESS)",
+      "waktu": "2026-05-19T10:06:25.305Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX8482964677",
+      "userId": "7661292905",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: hdjdksks (VMESS)",
+      "waktu": "2026-05-19T10:00:29.646Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX8482884719",
+      "userId": "7661292905",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: edukasii (SSH)",
+      "waktu": "2026-05-19T10:00:28.847Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX8482727046",
+      "userId": "7661292905",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: mint (SSH)",
+      "waktu": "2026-05-19T10:00:27.270Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX8482515750",
+      "userId": "7661292905",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: edukasii (SSH)",
+      "waktu": "2026-05-19T10:00:25.157Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX8383133060",
+      "userId": "7661292905",
+      "userName": "ＰＥＹＸ",
+      "type": "create",
+      "amount": 12000,
+      "keterangan": "ＰＥＹＸ create SSH edukasi 30hr",
+      "waktu": "2026-05-19T09:43:51.330Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX8378927937",
+      "userId": "7661292905",
+      "userName": "ＰＥＹＸ",
+      "type": "create",
+      "amount": 12000,
+      "keterangan": "ＰＥＹＸ create SSH edukasii 30hr",
+      "waktu": "2026-05-19T09:43:09.279Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX5512323554",
+      "userId": "7661292905",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial961308 (VMESS)",
+      "waktu": "2026-05-19T01:45:23.235Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX5361640132",
+      "userId": "7661292905",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial270043 (VMESS)",
+      "waktu": "2026-05-19T01:20:16.402Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX2071063033",
+      "userId": "8557676925",
+      "userName": "Arfan",
+      "type": "topup",
+      "amount": 5000,
+      "keterangan": "Topup Saldo oleh Arfan",
+      "waktu": "2026-05-18T16:11:50.630Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX2059824054",
+      "userId": "8557676925",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trialicjy5o8h (ZIVPN)",
+      "waktu": "2026-05-18T16:09:58.240Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX2011809990",
+      "userId": "8557676925",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trialffhpbsql (ZIVPN)",
+      "waktu": "2026-05-18T16:01:58.099Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX1963789051",
+      "userId": "7661292905",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial294272 (VMESS)",
+      "waktu": "2026-05-18T15:53:57.890Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX1891347203",
+      "userId": "7661292905",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial565589 (TROJAN)",
+      "waktu": "2026-05-18T15:41:53.473Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX1838797873",
+      "userId": "7661292905",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial046592 (VMESS)",
+      "waktu": "2026-05-18T15:33:07.978Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX1718462053",
+      "userId": "7661292905",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial862680 (VMESS)",
+      "waktu": "2026-05-18T15:13:04.621Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX0847595397",
+      "userId": "5776500649",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial834468 (SSH)",
+      "waktu": "2026-05-18T12:47:55.953Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX0739539242",
+      "userId": "8271933747",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial075893 (SSH)",
+      "waktu": "2026-05-18T12:29:55.392Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX0727506713",
+      "userId": "7661292905",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial945428 (SSH)",
+      "waktu": "2026-05-18T12:27:55.067Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX0703980448",
+      "userId": "8334895098",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trialjzvde80l (ZIVPN)",
+      "waktu": "2026-05-18T12:23:59.804Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX0703939021",
+      "userId": "7661292905",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial354687 (VMESS)",
+      "waktu": "2026-05-18T12:23:59.390Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX0700977848",
+      "userId": "8334895098",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trialjzvde80l (ZIVPN)",
+      "waktu": "2026-05-18T12:23:29.778Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX0700974034",
+      "userId": "7661292905",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial354687 (VMESS)",
+      "waktu": "2026-05-18T12:23:29.740Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX0694979618",
+      "userId": "8334895098",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trialjzvde80l (ZIVPN)",
+      "waktu": "2026-05-18T12:22:29.796Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX0694973054",
+      "userId": "7661292905",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial354687 (VMESS)",
+      "waktu": "2026-05-18T12:22:29.730Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX0688977212",
+      "userId": "8334895098",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trialjzvde80l (ZIVPN)",
+      "waktu": "2026-05-18T12:21:29.772Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX0688973913",
+      "userId": "7661292905",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial354687 (VMESS)",
+      "waktu": "2026-05-18T12:21:29.739Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX0682978903",
+      "userId": "8334895098",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trialjzvde80l (ZIVPN)",
+      "waktu": "2026-05-18T12:20:29.789Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX0682972944",
+      "userId": "7661292905",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial354687 (VMESS)",
+      "waktu": "2026-05-18T12:20:29.729Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX0677017804",
+      "userId": "8334895098",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trialjzvde80l (ZIVPN)",
+      "waktu": "2026-05-18T12:19:30.178Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX0676973307",
+      "userId": "7661292905",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial354687 (VMESS)",
+      "waktu": "2026-05-18T12:19:29.733Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX0671008827",
+      "userId": "7661292905",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial354687 (VMESS)",
+      "waktu": "2026-05-18T12:18:30.088Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX0551024605",
+      "userId": "8018158692",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial876177 (TROJAN)",
+      "waktu": "2026-05-18T11:58:30.246Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX0550982919",
+      "userId": "7661292905",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial848621 (VMESS)",
+      "waktu": "2026-05-18T11:58:29.829Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX9841911886",
+      "userId": "7661292905",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: hdjdjsjs (SSH)",
+      "waktu": "2026-05-18T10:00:19.118Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX8776960762",
+      "userId": "7661292905",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial149404 (VMESS)",
+      "waktu": "2026-05-18T07:02:49.608Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX8409375850",
+      "userId": "7661292905",
+      "userName": "ＰＥＹＸ",
+      "type": "create",
+      "amount": 534,
+      "keterangan": "ＰＥＹＸ create VMESS hdhdjss 2hr",
+      "waktu": "2026-05-18T06:01:33.758Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX8398926424",
+      "userId": "5439040178",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial926337 (SSH)",
+      "waktu": "2026-05-18T05:59:49.265Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX8398885993",
+      "userId": "8334895098",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trialb22k0lo4 (ZIVPN)",
+      "waktu": "2026-05-18T05:59:48.859Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX8398848175",
+      "userId": "7724790316",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial1ep66pkl (ZIVPN)",
+      "waktu": "2026-05-18T05:59:48.481Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX8398810482",
+      "userId": "8490959095",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial1myj76qx (ZIVPN)",
+      "waktu": "2026-05-18T05:59:48.104Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX8398769684",
+      "userId": "8127231874",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial511784 (SSH)",
+      "waktu": "2026-05-18T05:59:47.696Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX8398721841",
+      "userId": "8451473329",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial1bka0wzk (ZIVPN)",
+      "waktu": "2026-05-18T05:59:47.219Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX8398681789",
+      "userId": "8451473329",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: triall4es7msc (ZIVPN)",
+      "waktu": "2026-05-18T05:59:46.817Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX8398642921",
+      "userId": "8451473329",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial069112 (SSH)",
+      "waktu": "2026-05-18T05:59:46.429Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX8398604290",
+      "userId": "7037779475",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial7yif26bk (ZIVPN)",
+      "waktu": "2026-05-18T05:59:46.042Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX8398564601",
+      "userId": "7661292905",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial970178 (TROJAN)",
+      "waktu": "2026-05-18T05:59:45.646Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX8398526097",
+      "userId": "7661292905",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial2goiib4q (ZIVPN)",
+      "waktu": "2026-05-18T05:59:45.260Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX8398486718",
+      "userId": "7661292905",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial467721 (SSH)",
+      "waktu": "2026-05-18T05:59:44.867Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX8398447889",
+      "userId": "7661292905",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial078836 (VMESS)",
+      "waktu": "2026-05-18T05:59:44.478Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX8398410756",
+      "userId": "7661292905",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: 17052026 (VMESS)",
+      "waktu": "2026-05-18T05:59:44.107Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX8398408950",
+      "userId": "7661292905",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: hidayat98 (VMESS)",
+      "waktu": "2026-05-18T05:59:44.089Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX8398407654",
+      "userId": "7661292905",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: hidayat98 (VMESS)",
+      "waktu": "2026-05-18T05:59:44.076Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX8398405918",
+      "userId": "7661292905",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: tesss (VMESS)",
+      "waktu": "2026-05-18T05:59:44.059Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX8398368276",
+      "userId": "7661292905",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: hidayat98 (VMESS)",
+      "waktu": "2026-05-18T05:59:43.682Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX8398328019",
+      "userId": "7661292905",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: 17052026 (VMESS)",
+      "waktu": "2026-05-18T05:59:43.280Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX8398289132",
+      "userId": "7661292905",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: aldy (VMESS)",
+      "waktu": "2026-05-18T05:59:42.891Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX8398250089",
+      "userId": "7661292905",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: jdjdjd (VMESS)",
+      "waktu": "2026-05-18T05:59:42.500Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX8398193360",
+      "userId": "7661292905",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: sdfs (SSH)",
+      "waktu": "2026-05-18T05:59:41.933Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX8398155637",
+      "userId": "1117211252",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial782036 (TROJAN)",
+      "waktu": "2026-05-18T05:59:41.556Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX8398116021",
+      "userId": "1117211252",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial750009 (VLESS)",
+      "waktu": "2026-05-18T05:59:41.160Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX8398060064",
+      "userId": "930675610",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial821953 (SSH)",
+      "waktu": "2026-05-18T05:59:40.600Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX8398021597",
+      "userId": "930675610",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial481769 (SSH)",
+      "waktu": "2026-05-18T05:59:40.215Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX8330055361",
+      "userId": "7661292905",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial970178 (TROJAN)",
+      "waktu": "2026-05-18T05:48:20.553Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX8326547046",
+      "userId": "7661292905",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial970178 (TROJAN)",
+      "waktu": "2026-05-18T05:47:45.470Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX8320544911",
+      "userId": "7661292905",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial970178 (TROJAN)",
+      "waktu": "2026-05-18T05:46:45.449Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX8314550907",
+      "userId": "7661292905",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial970178 (TROJAN)",
+      "waktu": "2026-05-18T05:45:45.509Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX8308543437",
+      "userId": "7661292905",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial970178 (TROJAN)",
+      "waktu": "2026-05-18T05:44:45.434Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX8302541497",
+      "userId": "7661292905",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial970178 (TROJAN)",
+      "waktu": "2026-05-18T05:43:45.414Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX8296536918",
+      "userId": "7661292905",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial970178 (TROJAN)",
+      "waktu": "2026-05-18T05:42:45.369Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX8290540375",
+      "userId": "7661292905",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial970178 (TROJAN)",
+      "waktu": "2026-05-18T05:41:45.403Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX8284533583",
+      "userId": "7661292905",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial970178 (TROJAN)",
+      "waktu": "2026-05-18T05:40:45.335Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX8278534899",
+      "userId": "7661292905",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial970178 (TROJAN)",
+      "waktu": "2026-05-18T05:39:45.348Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX8272538576",
+      "userId": "7661292905",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial970178 (TROJAN)",
+      "waktu": "2026-05-18T05:38:45.386Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX8266531293",
+      "userId": "7661292905",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial970178 (TROJAN)",
+      "waktu": "2026-05-18T05:37:45.312Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX8260566814",
+      "userId": "7661292905",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial970178 (TROJAN)",
+      "waktu": "2026-05-18T05:36:45.668Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX8044558022",
+      "userId": "7661292905",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial2goiib4q (ZIVPN)",
+      "waktu": "2026-05-18T05:00:45.580Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX8044513936",
+      "userId": "1117211252",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial782036 (TROJAN)",
+      "waktu": "2026-05-18T05:00:45.139Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX8044475436",
+      "userId": "1117211252",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial750009 (VLESS)",
+      "waktu": "2026-05-18T05:00:44.754Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX8038512054",
+      "userId": "1117211252",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial782036 (TROJAN)",
+      "waktu": "2026-05-18T04:59:45.120Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX8038473721",
+      "userId": "1117211252",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial750009 (VLESS)",
+      "waktu": "2026-05-18T04:59:44.737Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX8008987154",
+      "userId": "5439040178",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial926337 (SSH)",
+      "waktu": "2026-05-18T04:54:49.871Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX8006586286",
+      "userId": "5439040178",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial926337 (SSH)",
+      "waktu": "2026-05-18T04:54:25.862Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX8000584245",
+      "userId": "5439040178",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial926337 (SSH)",
+      "waktu": "2026-05-18T04:53:25.842Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX7994583115",
+      "userId": "5439040178",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial926337 (SSH)",
+      "waktu": "2026-05-18T04:52:25.831Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX7988580080",
+      "userId": "5439040178",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial926337 (SSH)",
+      "waktu": "2026-05-18T04:51:25.800Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX7982579134",
+      "userId": "5439040178",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial926337 (SSH)",
+      "waktu": "2026-05-18T04:50:25.791Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX7976581288",
+      "userId": "5439040178",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial926337 (SSH)",
+      "waktu": "2026-05-18T04:49:25.812Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX7970577173",
+      "userId": "5439040178",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial926337 (SSH)",
+      "waktu": "2026-05-18T04:48:25.771Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX7964577478",
+      "userId": "5439040178",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial926337 (SSH)",
+      "waktu": "2026-05-18T04:47:25.774Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX7958578189",
+      "userId": "5439040178",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial926337 (SSH)",
+      "waktu": "2026-05-18T04:46:25.781Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX7919546980",
+      "userId": "7661292905",
+      "userName": "ＰＥＹＸ",
+      "type": "create",
+      "amount": 12816,
+      "keterangan": "ＰＥＹＸ create TROJAN rahmatmaulana 48hr",
+      "waktu": "2026-05-18T04:39:55.469Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX4719085197",
+      "userId": "8451473329",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial1bka0wzk (ZIVPN)",
+      "waktu": "2026-05-17T19:46:30.851Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX4712981472",
+      "userId": "8451473329",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial1bka0wzk (ZIVPN)",
+      "waktu": "2026-05-17T19:45:29.814Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX4706981431",
+      "userId": "8451473329",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial1bka0wzk (ZIVPN)",
+      "waktu": "2026-05-17T19:44:29.814Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX4700979903",
+      "userId": "8451473329",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial1bka0wzk (ZIVPN)",
+      "waktu": "2026-05-17T19:43:29.799Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX4694978843",
+      "userId": "8451473329",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial1bka0wzk (ZIVPN)",
+      "waktu": "2026-05-17T19:42:29.788Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX4688978638",
+      "userId": "8451473329",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial1bka0wzk (ZIVPN)",
+      "waktu": "2026-05-17T19:41:29.786Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX4682975201",
+      "userId": "8451473329",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial1bka0wzk (ZIVPN)",
+      "waktu": "2026-05-17T19:40:29.752Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX4676974460",
+      "userId": "8451473329",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial1bka0wzk (ZIVPN)",
+      "waktu": "2026-05-17T19:39:29.744Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX4670974218",
+      "userId": "8451473329",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial1bka0wzk (ZIVPN)",
+      "waktu": "2026-05-17T19:38:29.742Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX4664974275",
+      "userId": "8451473329",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial1bka0wzk (ZIVPN)",
+      "waktu": "2026-05-17T19:37:29.742Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX4658971845",
+      "userId": "8451473329",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial1bka0wzk (ZIVPN)",
+      "waktu": "2026-05-17T19:36:29.718Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX4652974037",
+      "userId": "8451473329",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial1bka0wzk (ZIVPN)",
+      "waktu": "2026-05-17T19:35:29.741Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX4646969065",
+      "userId": "8451473329",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial1bka0wzk (ZIVPN)",
+      "waktu": "2026-05-17T19:34:29.690Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX4640968898",
+      "userId": "8451473329",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial1bka0wzk (ZIVPN)",
+      "waktu": "2026-05-17T19:33:29.688Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX4634978484",
+      "userId": "8451473329",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial1bka0wzk (ZIVPN)",
+      "waktu": "2026-05-17T19:32:29.784Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX4628965916",
+      "userId": "8451473329",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial1bka0wzk (ZIVPN)",
+      "waktu": "2026-05-17T19:31:29.659Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX4622963232",
+      "userId": "8451473329",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial1bka0wzk (ZIVPN)",
+      "waktu": "2026-05-17T19:30:29.632Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX4616962512",
+      "userId": "8451473329",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial1bka0wzk (ZIVPN)",
+      "waktu": "2026-05-17T19:29:29.625Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX4610961620",
+      "userId": "8451473329",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial1bka0wzk (ZIVPN)",
+      "waktu": "2026-05-17T19:28:29.616Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX4604963188",
+      "userId": "8451473329",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial1bka0wzk (ZIVPN)",
+      "waktu": "2026-05-17T19:27:29.631Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX4598961747",
+      "userId": "8451473329",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial1bka0wzk (ZIVPN)",
+      "waktu": "2026-05-17T19:26:29.617Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX4592957617",
+      "userId": "8451473329",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial1bka0wzk (ZIVPN)",
+      "waktu": "2026-05-17T19:25:29.576Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX4586969878",
+      "userId": "8451473329",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial1bka0wzk (ZIVPN)",
+      "waktu": "2026-05-17T19:24:29.698Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX4580955534",
+      "userId": "8451473329",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial1bka0wzk (ZIVPN)",
+      "waktu": "2026-05-17T19:23:29.555Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX4574956410",
+      "userId": "8451473329",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial1bka0wzk (ZIVPN)",
+      "waktu": "2026-05-17T19:22:29.565Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX4568953076",
+      "userId": "8451473329",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial1bka0wzk (ZIVPN)",
+      "waktu": "2026-05-17T19:21:29.530Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX4562952574",
+      "userId": "8451473329",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial1bka0wzk (ZIVPN)",
+      "waktu": "2026-05-17T19:20:29.525Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX4556950160",
+      "userId": "8451473329",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial1bka0wzk (ZIVPN)",
+      "waktu": "2026-05-17T19:19:29.501Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX4550947530",
+      "userId": "8451473329",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial1bka0wzk (ZIVPN)",
+      "waktu": "2026-05-17T19:18:29.475Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX4544947548",
+      "userId": "8451473329",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial1bka0wzk (ZIVPN)",
+      "waktu": "2026-05-17T19:17:29.475Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX4538947007",
+      "userId": "8451473329",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial1bka0wzk (ZIVPN)",
+      "waktu": "2026-05-17T19:16:29.470Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX4532948117",
+      "userId": "8451473329",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial1bka0wzk (ZIVPN)",
+      "waktu": "2026-05-17T19:15:29.481Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX4526944178",
+      "userId": "8451473329",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial1bka0wzk (ZIVPN)",
+      "waktu": "2026-05-17T19:14:29.441Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX4520943197",
+      "userId": "8451473329",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial1bka0wzk (ZIVPN)",
+      "waktu": "2026-05-17T19:13:29.431Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX4514944259",
+      "userId": "8451473329",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial1bka0wzk (ZIVPN)",
+      "waktu": "2026-05-17T19:12:29.442Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX4508949456",
+      "userId": "8451473329",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial1bka0wzk (ZIVPN)",
+      "waktu": "2026-05-17T19:11:29.494Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX4502938768",
+      "userId": "8451473329",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial1bka0wzk (ZIVPN)",
+      "waktu": "2026-05-17T19:10:29.387Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX4496936988",
+      "userId": "8451473329",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial1bka0wzk (ZIVPN)",
+      "waktu": "2026-05-17T19:09:29.369Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX4490936729",
+      "userId": "8451473329",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial1bka0wzk (ZIVPN)",
+      "waktu": "2026-05-17T19:08:29.367Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX4484934273",
+      "userId": "8451473329",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial1bka0wzk (ZIVPN)",
+      "waktu": "2026-05-17T19:07:29.342Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX4478932796",
+      "userId": "8451473329",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial1bka0wzk (ZIVPN)",
+      "waktu": "2026-05-17T19:06:29.327Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX4472932025",
+      "userId": "8451473329",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial1bka0wzk (ZIVPN)",
+      "waktu": "2026-05-17T19:05:29.320Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX4466929533",
+      "userId": "8451473329",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial1bka0wzk (ZIVPN)",
+      "waktu": "2026-05-17T19:04:29.295Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX4460930292",
+      "userId": "8451473329",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial1bka0wzk (ZIVPN)",
+      "waktu": "2026-05-17T19:03:29.302Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX4454933481",
+      "userId": "8451473329",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial1bka0wzk (ZIVPN)",
+      "waktu": "2026-05-17T19:02:29.334Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX4448932258",
+      "userId": "8451473329",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial1bka0wzk (ZIVPN)",
+      "waktu": "2026-05-17T19:01:29.322Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX4442928115",
+      "userId": "8451473329",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial1bka0wzk (ZIVPN)",
+      "waktu": "2026-05-17T19:00:29.281Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX4436923518",
+      "userId": "8451473329",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial1bka0wzk (ZIVPN)",
+      "waktu": "2026-05-17T18:59:29.235Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX4430922894",
+      "userId": "8451473329",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial1bka0wzk (ZIVPN)",
+      "waktu": "2026-05-17T18:58:29.228Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX4424920973",
+      "userId": "8451473329",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial1bka0wzk (ZIVPN)",
+      "waktu": "2026-05-17T18:57:29.209Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX4418921590",
+      "userId": "8451473329",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial1bka0wzk (ZIVPN)",
+      "waktu": "2026-05-17T18:56:29.215Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX4412919015",
+      "userId": "8451473329",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial1bka0wzk (ZIVPN)",
+      "waktu": "2026-05-17T18:55:29.190Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX4406917865",
+      "userId": "8451473329",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial1bka0wzk (ZIVPN)",
+      "waktu": "2026-05-17T18:54:29.178Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX4400917032",
+      "userId": "8451473329",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial1bka0wzk (ZIVPN)",
+      "waktu": "2026-05-17T18:53:29.170Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX4394947989",
+      "userId": "8451473329",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial1bka0wzk (ZIVPN)",
+      "waktu": "2026-05-17T18:52:29.479Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX4388915211",
+      "userId": "8451473329",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial1bka0wzk (ZIVPN)",
+      "waktu": "2026-05-17T18:51:29.152Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX4382912685",
+      "userId": "8451473329",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial1bka0wzk (ZIVPN)",
+      "waktu": "2026-05-17T18:50:29.126Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX4376910832",
+      "userId": "8451473329",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial1bka0wzk (ZIVPN)",
+      "waktu": "2026-05-17T18:49:29.108Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX4370909504",
+      "userId": "8451473329",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial1bka0wzk (ZIVPN)",
+      "waktu": "2026-05-17T18:48:29.095Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX4364909494",
+      "userId": "8451473329",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial1bka0wzk (ZIVPN)",
+      "waktu": "2026-05-17T18:47:29.094Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX4358908937",
+      "userId": "8451473329",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial1bka0wzk (ZIVPN)",
+      "waktu": "2026-05-17T18:46:29.089Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX4352942108",
+      "userId": "8451473329",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial1bka0wzk (ZIVPN)",
+      "waktu": "2026-05-17T18:45:29.421Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX4346901817",
+      "userId": "8451473329",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial1bka0wzk (ZIVPN)",
+      "waktu": "2026-05-17T18:44:29.018Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX4340900934",
+      "userId": "8451473329",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial1bka0wzk (ZIVPN)",
+      "waktu": "2026-05-17T18:43:29.009Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX4334899443",
+      "userId": "8451473329",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial1bka0wzk (ZIVPN)",
+      "waktu": "2026-05-17T18:42:28.994Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX4328900584",
+      "userId": "8451473329",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial1bka0wzk (ZIVPN)",
+      "waktu": "2026-05-17T18:41:29.005Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX4322904996",
+      "userId": "8451473329",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial1bka0wzk (ZIVPN)",
+      "waktu": "2026-05-17T18:40:29.049Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX4316893711",
+      "userId": "8451473329",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial1bka0wzk (ZIVPN)",
+      "waktu": "2026-05-17T18:39:28.937Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX4310895996",
+      "userId": "8451473329",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial1bka0wzk (ZIVPN)",
+      "waktu": "2026-05-17T18:38:28.959Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX4304892307",
+      "userId": "8451473329",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial1bka0wzk (ZIVPN)",
+      "waktu": "2026-05-17T18:37:28.923Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX4298894961",
+      "userId": "8451473329",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial1bka0wzk (ZIVPN)",
+      "waktu": "2026-05-17T18:36:28.949Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX4292891616",
+      "userId": "8451473329",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial1bka0wzk (ZIVPN)",
+      "waktu": "2026-05-17T18:35:28.916Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX4286885569",
+      "userId": "8451473329",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial1bka0wzk (ZIVPN)",
+      "waktu": "2026-05-17T18:34:28.855Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX4280885059",
+      "userId": "8451473329",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial1bka0wzk (ZIVPN)",
+      "waktu": "2026-05-17T18:33:28.850Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX4274884335",
+      "userId": "8451473329",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial1bka0wzk (ZIVPN)",
+      "waktu": "2026-05-17T18:32:28.843Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX4268882533",
+      "userId": "8451473329",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial1bka0wzk (ZIVPN)",
+      "waktu": "2026-05-17T18:31:28.825Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX4262880144",
+      "userId": "8451473329",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial1bka0wzk (ZIVPN)",
+      "waktu": "2026-05-17T18:30:28.801Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX4256878424",
+      "userId": "8451473329",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial1bka0wzk (ZIVPN)",
+      "waktu": "2026-05-17T18:29:28.784Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX4250876392",
+      "userId": "8451473329",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial1bka0wzk (ZIVPN)",
+      "waktu": "2026-05-17T18:28:28.764Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX4244876483",
+      "userId": "8451473329",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial1bka0wzk (ZIVPN)",
+      "waktu": "2026-05-17T18:27:28.764Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX4238875843",
+      "userId": "8451473329",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial1bka0wzk (ZIVPN)",
+      "waktu": "2026-05-17T18:26:28.758Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX4232872747",
+      "userId": "8451473329",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial1bka0wzk (ZIVPN)",
+      "waktu": "2026-05-17T18:25:28.728Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX4226872165",
+      "userId": "8451473329",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial1bka0wzk (ZIVPN)",
+      "waktu": "2026-05-17T18:24:28.722Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX4220869105",
+      "userId": "8451473329",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial1bka0wzk (ZIVPN)",
+      "waktu": "2026-05-17T18:23:28.691Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX4214865711",
+      "userId": "8451473329",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial1bka0wzk (ZIVPN)",
+      "waktu": "2026-05-17T18:22:28.657Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX4208865737",
+      "userId": "8451473329",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial1bka0wzk (ZIVPN)",
+      "waktu": "2026-05-17T18:21:28.657Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX4202863404",
+      "userId": "8451473329",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial1bka0wzk (ZIVPN)",
+      "waktu": "2026-05-17T18:20:28.634Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX4196860093",
+      "userId": "8451473329",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial1bka0wzk (ZIVPN)",
+      "waktu": "2026-05-17T18:19:28.600Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX4190862413",
+      "userId": "8451473329",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial1bka0wzk (ZIVPN)",
+      "waktu": "2026-05-17T18:18:28.625Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX4184856018",
+      "userId": "8451473329",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial1bka0wzk (ZIVPN)",
+      "waktu": "2026-05-17T18:17:28.560Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX4178856111",
+      "userId": "8451473329",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial1bka0wzk (ZIVPN)",
+      "waktu": "2026-05-17T18:16:28.561Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX4172860779",
+      "userId": "8451473329",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial1bka0wzk (ZIVPN)",
+      "waktu": "2026-05-17T18:15:28.607Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX4166852881",
+      "userId": "8451473329",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial1bka0wzk (ZIVPN)",
+      "waktu": "2026-05-17T18:14:28.528Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX4160849154",
+      "userId": "8451473329",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial1bka0wzk (ZIVPN)",
+      "waktu": "2026-05-17T18:13:28.491Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX4154847979",
+      "userId": "8451473329",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial1bka0wzk (ZIVPN)",
+      "waktu": "2026-05-17T18:12:28.479Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX4148848228",
+      "userId": "8451473329",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial1bka0wzk (ZIVPN)",
+      "waktu": "2026-05-17T18:11:28.482Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX4142846436",
+      "userId": "8451473329",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial1bka0wzk (ZIVPN)",
+      "waktu": "2026-05-17T18:10:28.464Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX4136846320",
+      "userId": "8451473329",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial1bka0wzk (ZIVPN)",
+      "waktu": "2026-05-17T18:09:28.463Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX4130841139",
+      "userId": "8451473329",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial1bka0wzk (ZIVPN)",
+      "waktu": "2026-05-17T18:08:28.411Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX4124841507",
+      "userId": "8451473329",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial1bka0wzk (ZIVPN)",
+      "waktu": "2026-05-17T18:07:28.415Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX4118840970",
+      "userId": "8451473329",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial1bka0wzk (ZIVPN)",
+      "waktu": "2026-05-17T18:06:28.409Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX4112840703",
+      "userId": "8451473329",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial1bka0wzk (ZIVPN)",
+      "waktu": "2026-05-17T18:05:28.407Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX4106836479",
+      "userId": "8451473329",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial1bka0wzk (ZIVPN)",
+      "waktu": "2026-05-17T18:04:28.364Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX4100831766",
+      "userId": "8451473329",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial1bka0wzk (ZIVPN)",
+      "waktu": "2026-05-17T18:03:28.317Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX4094832187",
+      "userId": "8451473329",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial1bka0wzk (ZIVPN)",
+      "waktu": "2026-05-17T18:02:28.321Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX4088832048",
+      "userId": "8451473329",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial1bka0wzk (ZIVPN)",
+      "waktu": "2026-05-17T18:01:28.320Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX4082834424",
+      "userId": "8451473329",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial1bka0wzk (ZIVPN)",
+      "waktu": "2026-05-17T18:00:28.344Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX4028658288",
+      "userId": "7037779475",
+      "userName": "Bon",
+      "type": "create",
+      "amount": 734,
+      "keterangan": "Bon create SSH Ww123 2hr",
+      "waktu": "2026-05-17T17:51:26.582Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX3556782896",
+      "userId": "7661292905",
+      "userName": "ＰＥＹＸ",
+      "type": "topup",
+      "amount": 5000,
+      "keterangan": "Topup via DANA oleh ＰＥＹＸ",
+      "waktu": "2026-05-17T16:32:47.828Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX2743301082",
+      "userId": "930675610",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial821953 (SSH)",
+      "waktu": "2026-05-17T14:17:13.010Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX1569843202",
+      "userId": "7661292905",
+      "userName": "ＰＥＹＸ",
+      "type": "create",
+      "amount": 534,
+      "keterangan": "ＰＥＹＸ create VMESS hdjdksks 2hr",
+      "waktu": "2026-05-17T11:01:38.432Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX1541249529",
+      "userId": "7661292905",
+      "userName": "ＰＥＹＸ",
+      "type": "create",
+      "amount": 267,
+      "keterangan": "ＰＥＹＸ create SSH hdjdjsjs 1hr",
+      "waktu": "2026-05-17T10:56:52.495Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX1201155547",
+      "userId": "7661292905",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: 17052026 (VMESS)",
+      "waktu": "2026-05-17T10:00:11.555Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX1201031917",
+      "userId": "7661292905",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: 17052026 (VMESS)",
+      "waktu": "2026-05-17T10:00:10.319Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX0120331633",
+      "userId": "8334895098",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trialb22k0lo4 (ZIVPN)",
+      "waktu": "2026-05-17T07:00:03.316Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX9151441733",
+      "userId": "7724790316",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial1ep66pkl (ZIVPN)",
+      "waktu": "2026-05-17T04:18:34.417Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX6792139038",
+      "userId": "8490959095",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial1myj76qx (ZIVPN)",
+      "waktu": "2026-05-16T21:45:21.390Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX6216066604",
+      "userId": "8127231874",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial511784 (SSH)",
+      "waktu": "2026-05-16T20:09:20.666Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX5025255614",
+      "userId": "8451473329",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: triall4es7msc (ZIVPN)",
+      "waktu": "2026-05-16T16:50:52.556Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX4971806045",
+      "userId": "8451473329",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial069112 (SSH)",
+      "waktu": "2026-05-16T16:41:58.060Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX4809454993",
+      "userId": "7661292905",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial467721 (SSH)",
+      "waktu": "2026-05-16T16:14:54.549Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX4769842683",
+      "userId": "7661292905",
+      "userName": "ＰＥＹＸ",
+      "type": "create",
+      "amount": 1602,
+      "keterangan": "ＰＥＹＸ create SSH pmdaja 6hr",
+      "waktu": "2026-05-16T16:08:18.426Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX4605460805",
+      "userId": "7037779475",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial7yif26bk (ZIVPN)",
+      "waktu": "2026-05-16T15:40:54.608Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX4476088290",
+      "userId": "7661292905",
+      "userName": "ＰＥＹＸ",
+      "type": "create",
+      "amount": 8010,
+      "keterangan": "ＰＥＹＸ create ZIVPN Deden123 30hr",
+      "waktu": "2026-05-16T15:19:20.882Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX4473246896",
+      "userId": "7037779475",
+      "userName": "Bon",
+      "type": "admin_add",
+      "amount": 990,
+      "keterangan": "Admin tambah saldo dari ＰＥＹＸ",
+      "waktu": "2026-05-16T15:18:52.468Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX4432098503",
+      "userId": "7037779475",
+      "userName": "Bon",
+      "type": "admin_reduce",
+      "amount": 990,
+      "keterangan": "Admin kurangi saldo dari ＰＥＹＸ",
+      "waktu": "2026-05-16T15:12:00.985Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX4394295259",
+      "userId": "7037779475",
+      "userName": "Bon",
+      "type": "create",
+      "amount": 8010,
+      "keterangan": "Bon create ZIVPN Deden123 30hr",
+      "waktu": "2026-05-16T15:05:42.952Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX4388100006",
+      "userId": "7037779475",
+      "userName": "Bon",
+      "type": "topup",
+      "amount": 9000,
+      "keterangan": "Topup Saldo oleh Bon",
+      "waktu": "2026-05-16T15:04:41.000Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX4113103011",
+      "userId": "930675610",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial481769 (SSH)",
+      "waktu": "2026-05-16T14:18:51.030Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX2564498643",
+      "userId": "7661292905",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: aldy (VMESS)",
+      "waktu": "2026-05-16T10:00:44.986Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX1772281025",
+      "userId": "7661292905",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: trial078836 (VMESS)",
+      "waktu": "2026-05-16T07:48:42.810Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX1469696519",
+      "userId": "7661292905",
+      "userName": "ＰＥＹＸ",
+      "type": "create",
+      "amount": 7476,
+      "keterangan": "ＰＥＹＸ create VMESS hidayat98 28hr",
+      "waktu": "2026-05-16T06:58:16.965Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX1454966747",
+      "userId": "7661292905",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: hidayat98 (VMESS)",
+      "waktu": "2026-05-16T06:55:49.667Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX1454928266",
+      "userId": "7661292905",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: hidayat98 (VMESS)",
+      "waktu": "2026-05-16T06:55:49.282Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX1454810434",
+      "userId": "7661292905",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: tesss (VMESS)",
+      "waktu": "2026-05-16T06:55:48.104Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX1454770524",
+      "userId": "7661292905",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: hidayat98 (VMESS)",
+      "waktu": "2026-05-16T06:55:47.705Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX1454721824",
+      "userId": "7661292905",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: jdjdjd (VMESS)",
+      "waktu": "2026-05-16T06:55:47.218Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX1454670930",
+      "userId": "7661292905",
+      "type": "auto_delete_expired",
+      "amount": 0,
+      "keterangan": "Auto-hapus expired: sdfs (SSH)",
+      "waktu": "2026-05-16T06:55:46.709Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX6449485736",
+      "userId": "215957266",
+      "userName": "𝐭ｅ𝐂ʰ⁴⁰⁴",
+      "type": "create",
+      "amount": 4806,
+      "keterangan": "𝐭ｅ𝐂ʰ⁴⁰⁴ create ZIVPN 4455 18hr",
+      "waktu": "2026-05-15T17:01:34.857Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX6416022398",
+      "userId": "215957266",
+      "userName": "𝐭ｅ𝐂ʰ⁴⁰⁴",
+      "type": "topup",
+      "amount": 5000,
+      "keterangan": "Topup Saldo oleh 𝐭ｅ𝐂ʰ⁴⁰⁴",
+      "waktu": "2026-05-15T16:56:00.223Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX0124175391",
+      "userId": "7661292905",
+      "userName": "ＰＥＹＸ",
+      "type": "topup",
+      "amount": 5000,
+      "keterangan": "Topup Saldo oleh ＰＥＹＸ",
+      "waktu": "2026-05-14T23:27:21.753Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX0008026509",
+      "userId": "7661292905",
+      "userName": "ＰＥＹＸ",
+      "type": "topup",
+      "amount": 5000,
+      "keterangan": "Topup Saldo oleh ＰＥＹＸ",
+      "waktu": "2026-05-14T23:08:00.265Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX9885380895",
+      "userId": "7661292905",
+      "userName": "ＰＥＹＸ",
+      "type": "create",
+      "amount": 8010,
+      "keterangan": "ＰＥＹＸ create SSH rafzx 30hr",
+      "waktu": "2026-05-14T22:47:33.808Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX1546576885",
+      "userId": "7661292905",
+      "userName": "ＰＥＹＸ",
+      "type": "topup",
+      "amount": 5000,
+      "keterangan": "Topup Saldo oleh ＰＥＹＸ",
+      "waktu": "2026-05-13T23:37:45.768Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX6854729015",
+      "userId": "7661292905",
+      "userName": "ＰＥＹＸ",
+      "type": "create",
+      "amount": 1602,
+      "keterangan": "ＰＥＹＸ create SSH edukasii 6hr",
+      "waktu": "2026-05-13T10:35:47.290Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX6665621563",
+      "userId": "7661292905",
+      "userName": "ＰＥＹＸ",
+      "type": "create",
+      "amount": 3204,
+      "keterangan": "ＰＥＹＸ create SSH kempong 12hr",
+      "waktu": "2026-05-13T10:04:16.215Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX6230785591",
+      "userId": "7661292905",
+      "userName": "ＰＥＹＸ",
+      "type": "create",
+      "amount": 1602,
+      "keterangan": "ＰＥＹＸ create SSH mint 6hr",
+      "waktu": "2026-05-13T08:51:47.855Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX5729452849",
+      "userId": "7661292905",
+      "userName": "ＰＥＹＸ",
+      "type": "create",
+      "amount": 1068,
+      "keterangan": "ＰＥＹＸ create VMESS 17052026 4hr",
+      "waktu": "2026-05-13T07:28:14.528Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX5713673023",
+      "userId": "7661292905",
+      "userName": "ＰＥＹＸ",
+      "type": "create",
+      "amount": 3471,
+      "keterangan": "ＰＥＹＸ create VMESS gogon 13hr",
+      "waktu": "2026-05-13T07:25:36.730Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX5704615855",
+      "userId": "7661292905",
+      "userName": "ＰＥＹＸ",
+      "type": "create",
+      "amount": 534,
+      "keterangan": "ＰＥＹＸ create VMESS hidayat98 2hr",
+      "waktu": "2026-05-13T07:24:06.158Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX5701611083",
+      "userId": "7661292905",
+      "userName": "ＰＥＹＸ",
+      "type": "create",
+      "amount": 4806,
+      "keterangan": "ＰＥＹＸ create VMESS rafi 18hr",
+      "waktu": "2026-05-13T07:23:36.110Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX5689402810",
+      "userId": "7661292905",
+      "userName": "ＰＥＹＸ",
+      "type": "create",
+      "amount": 14151,
+      "keterangan": "ＰＥＹＸ create TROJAN rahmatmaulana 53hr",
+      "waktu": "2026-05-13T07:21:34.029Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX5247092434",
+      "userId": "7661292905",
+      "userName": "ＰＥＹＸ",
+      "type": "create",
+      "amount": 14151,
+      "keterangan": "ＰＥＹＸ create TROJAN rahmatmaulana 53hr",
+      "waktu": "2026-05-13T06:07:50.924Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX5043178801",
+      "userId": "7661292905",
+      "userName": "ＰＥＹＸ",
+      "type": "create",
+      "amount": 4539,
+      "keterangan": "ＰＥＹＸ create VMESS rafi 17hr",
+      "waktu": "2026-05-13T05:33:51.788Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX5032456421",
+      "userId": "7661292905",
+      "userName": "ＰＥＹＸ",
+      "type": "create",
+      "amount": 534,
+      "keterangan": "ＰＥＹＸ create VMESS hidayat98 2hr",
+      "waktu": "2026-05-13T05:32:04.564Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX5021099257",
+      "userId": "7661292905",
+      "userName": "ＰＥＹＸ",
+      "type": "create",
+      "amount": 3471,
+      "keterangan": "ＰＥＹＸ create VMESS gogon 13hr",
+      "waktu": "2026-05-13T05:30:10.992Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX4809343696",
+      "userId": "7661292905",
+      "userName": "ＰＥＹＸ",
+      "type": "create",
+      "amount": 4806,
+      "keterangan": "ＰＥＹＸ create VMESS exp31mei2026 18hr",
+      "waktu": "2026-05-13T04:54:53.436Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX3958565699",
+      "userId": "7661292905",
+      "userName": "ＰＥＹＸ",
+      "type": "topup",
+      "amount": 5000,
+      "keterangan": "Topup Saldo oleh ＰＥＹＸ",
+      "waktu": "2026-05-13T02:33:05.656Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX3910603908",
+      "userId": "7661292905",
+      "userName": "ＰＥＹＸ",
+      "type": "topup",
+      "amount": 5000,
+      "keterangan": "Topup Saldo oleh ＰＥＹＸ",
+      "waktu": "2026-05-13T02:25:06.039Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX3545849366",
+      "userId": "7661292905",
+      "userName": "ＰＥＹＸ",
+      "type": "create",
+      "amount": 8010,
+      "keterangan": "ＰＥＹＸ create ZIVPN kaindra 30hr",
+      "waktu": "2026-05-13T01:24:18.493Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX2766613440",
+      "userId": "7661292905",
+      "userName": "ＰＥＹＸ",
+      "type": "create",
+      "amount": 367,
+      "keterangan": "ＰＥＹＸ create VMESS tesss 1hr",
+      "waktu": "2026-05-12T23:14:26.134Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX2697134719",
+      "userId": "7661292905",
+      "userName": "ＰＥＹＸ",
+      "type": "create",
+      "amount": 3471,
+      "keterangan": "ＰＥＹＸ create VMESS gogon 13hr",
+      "waktu": "2026-05-12T23:02:51.348Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX9737575699",
+      "userId": "7661292905",
+      "userName": "ＰＥＹＸ",
+      "type": "create",
+      "amount": 801,
+      "keterangan": "ＰＥＹＸ create VMESS hidayat98 3hr",
+      "waktu": "2026-05-12T14:49:35.757Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX9498479079",
+      "userId": "7661292905",
+      "userName": "ＰＥＹＸ",
+      "type": "create",
+      "amount": 4539,
+      "keterangan": "ＰＥＹＸ create VMESS rafi 17hr",
+      "waktu": "2026-05-12T14:09:44.790Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX9450247082",
+      "userId": "7661292905",
+      "userName": "ＰＥＹＸ",
+      "type": "create",
+      "amount": 1335,
+      "keterangan": "ＰＥＹＸ create VMESS 17052026 5hr",
+      "waktu": "2026-05-12T14:01:42.470Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX9243597858",
+      "userId": "7661292905",
+      "userName": "ＰＥＹＸ",
+      "type": "create",
+      "amount": 1869,
+      "keterangan": "ＰＥＹＸ create SSH edukasii 7hr",
+      "waktu": "2026-05-12T13:27:15.978Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX8929864556",
+      "userId": "7661292905",
+      "userName": "ＰＥＹＸ",
+      "type": "create",
+      "amount": 13617,
+      "keterangan": "ＰＥＹＸ create TROJAN rahmatmaulana 51hr",
+      "waktu": "2026-05-12T12:34:58.645Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX8906156944",
+      "userId": "7661292905",
+      "userName": "ＰＥＹＸ",
+      "type": "create",
+      "amount": 1068,
+      "keterangan": "ＰＥＹＸ create VMESS aldy 4hr",
+      "waktu": "2026-05-12T12:31:01.569Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX8757449029",
+      "userId": "7661292905",
+      "userName": "ＰＥＹＸ",
+      "type": "create",
+      "amount": 4005,
+      "keterangan": "ＰＥＹＸ create SSH mint 15hr",
+      "waktu": "2026-05-12T12:06:14.490Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX0647482061",
+      "userId": "7661292905",
+      "userName": "ＰＥＹＸ",
+      "type": "admin_add",
+      "amount": 1000000,
+      "keterangan": "Admin tambah saldo dari ＰＥＹＸ",
+      "waktu": "2026-05-11T13:34:34.820Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX0643903195",
+      "userId": "7661292905",
+      "type": "payg_stop",
+      "amount": 0,
+      "keterangan": "User stop PAYG: asdawda (SSH)",
+      "waktu": "2026-05-11T13:33:59.031Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX0518949015",
+      "userId": "7661292905",
+      "type": "payg_deduct",
+      "amount": 12,
+      "keterangan": "PAYG/jam: asdawda (SSH)",
+      "waktu": "2026-05-11T13:13:09.488Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX0158835599",
+      "userId": "7661292905",
+      "type": "payg_deduct",
+      "amount": 12,
+      "keterangan": "PAYG/jam: asdawda (SSH)",
+      "waktu": "2026-05-11T12:13:08.354Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX9798728319",
+      "userId": "7661292905",
+      "type": "payg_deduct",
+      "amount": 12,
+      "keterangan": "PAYG/jam: asdawda (SSH)",
+      "waktu": "2026-05-11T11:13:07.282Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX9438620129",
+      "userId": "7661292905",
+      "type": "payg_deduct",
+      "amount": 12,
+      "keterangan": "PAYG/jam: asdawda (SSH)",
+      "waktu": "2026-05-11T10:13:06.200Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX9078513618",
+      "userId": "7661292905",
+      "type": "payg_deduct",
+      "amount": 12,
+      "keterangan": "PAYG/jam: asdawda (SSH)",
+      "waktu": "2026-05-11T09:13:05.131Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX8916787885",
+      "userId": "7661292905",
+      "userName": "ＰＥＹＸ",
+      "type": "admin_reduce",
+      "amount": 785000,
+      "keterangan": "Admin kurangi saldo dari ＰＥＹＸ",
+      "waktu": "2026-05-11T08:46:07.878Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX8718397453",
+      "userId": "7661292905",
+      "type": "payg_deduct",
+      "amount": 12,
+      "keterangan": "PAYG/jam: asdawda (SSH)",
+      "waktu": "2026-05-11T08:13:03.971Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX8651194518",
+      "userId": "7661292905",
+      "userName": "ＰＥＹＸ",
+      "type": "admin_reduce",
+      "amount": 87000,
+      "keterangan": "Admin kurangi saldo dari ＰＥＹＸ",
+      "waktu": "2026-05-11T08:01:51.945Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX8650503533",
+      "userId": "7661292905",
+      "userName": "ＰＥＹＸ",
+      "type": "admin_reduce",
+      "amount": 873,
+      "keterangan": "Admin kurangi saldo dari ＰＥＹＸ",
+      "waktu": "2026-05-11T08:01:45.035Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX8355806884",
+      "userId": "7661292905",
+      "type": "payg_deduct",
+      "amount": 12,
+      "keterangan": "PAYG/jam: asdawda (SSH)",
+      "waktu": "2026-05-11T07:12:38.067Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX7995700244",
+      "userId": "7661292905",
+      "type": "payg_deduct",
+      "amount": 12,
+      "keterangan": "PAYG/jam: asdawda (SSH)",
+      "waktu": "2026-05-11T06:12:37.001Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX7824791099",
+      "userId": "7661292905",
+      "userName": "ＰＥＹＸ",
+      "type": "create",
+      "amount": 8010,
+      "keterangan": "ＰＥＹＸ create ZIVPN fuji 30hr",
+      "waktu": "2026-05-11T05:44:07.910Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX7635588198",
+      "userId": "7661292905",
+      "type": "payg_deduct",
+      "amount": 12,
+      "keterangan": "PAYG/jam: asdawda (SSH)",
+      "waktu": "2026-05-11T05:12:35.881Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX7275471627",
+      "userId": "7661292905",
+      "type": "payg_deduct",
+      "amount": 12,
+      "keterangan": "PAYG/jam: asdawda (SSH)",
+      "waktu": "2026-05-11T04:12:34.714Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX6912288229",
+      "userId": "7661292905",
+      "type": "payg_deduct",
+      "amount": 12,
+      "keterangan": "PAYG/jam: asdawda (SSH)",
+      "waktu": "2026-05-11T03:12:02.882Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX6756615974",
+      "userId": "7661292905",
+      "userName": "ＰＥＹＸ",
+      "type": "create",
+      "amount": 267,
+      "keterangan": "ＰＥＹＸ create VMESS jdjdjd 1hr",
+      "waktu": "2026-05-11T02:46:06.159Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX6552284756",
+      "userId": "7661292905",
+      "type": "payg_deduct",
+      "amount": 12,
+      "keterangan": "PAYG/jam: asdawda (SSH)",
+      "waktu": "2026-05-11T02:12:02.847Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX6192284724",
+      "userId": "7661292905",
+      "type": "payg_deduct",
+      "amount": 12,
+      "keterangan": "PAYG/jam: asdawda (SSH)",
+      "waktu": "2026-05-11T01:12:02.846Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX5832283205",
+      "userId": "7661292905",
+      "type": "payg_deduct",
+      "amount": 12,
+      "keterangan": "PAYG/jam: asdawda (SSH)",
+      "waktu": "2026-05-11T00:12:02.832Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX5472281100",
+      "userId": "7661292905",
+      "type": "payg_deduct",
+      "amount": 12,
+      "keterangan": "PAYG/jam: asdawda (SSH)",
+      "waktu": "2026-05-10T23:12:02.811Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX5112278954",
+      "userId": "7661292905",
+      "type": "payg_deduct",
+      "amount": 12,
+      "keterangan": "PAYG/jam: asdawda (SSH)",
+      "waktu": "2026-05-10T22:12:02.789Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX4752278887",
+      "userId": "7661292905",
+      "type": "payg_deduct",
+      "amount": 12,
+      "keterangan": "PAYG/jam: asdawda (SSH)",
+      "waktu": "2026-05-10T21:12:02.788Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX4392276744",
+      "userId": "7661292905",
+      "type": "payg_deduct",
+      "amount": 12,
+      "keterangan": "PAYG/jam: asdawda (SSH)",
+      "waktu": "2026-05-10T20:12:02.767Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX4032276027",
+      "userId": "7661292905",
+      "type": "payg_deduct",
+      "amount": 12,
+      "keterangan": "PAYG/jam: asdawda (SSH)",
+      "waktu": "2026-05-10T19:12:02.760Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX3672271443",
+      "userId": "7661292905",
+      "type": "payg_deduct",
+      "amount": 12,
+      "keterangan": "PAYG/jam: asdawda (SSH)",
+      "waktu": "2026-05-10T18:12:02.714Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX3312270788",
+      "userId": "7661292905",
+      "type": "payg_deduct",
+      "amount": 12,
+      "keterangan": "PAYG/jam: asdawda (SSH)",
+      "waktu": "2026-05-10T17:12:02.707Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX2952269124",
+      "userId": "7661292905",
+      "type": "payg_deduct",
+      "amount": 12,
+      "keterangan": "PAYG/jam: asdawda (SSH)",
+      "waktu": "2026-05-10T16:12:02.690Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX2592265647",
+      "userId": "7661292905",
+      "type": "payg_deduct",
+      "amount": 12,
+      "keterangan": "PAYG/jam: asdawda (SSH)",
+      "waktu": "2026-05-10T15:12:02.656Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX2214941550",
+      "userId": "7661292905",
+      "type": "payg_create",
+      "amount": 12,
+      "keterangan": "Aktivasi PAYG SSH asdawda (Rp 12/jam)",
+      "waktu": "2026-05-10T14:09:09.415Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX2206124622",
+      "userId": "7661292905",
+      "userName": "ＰＥＹＸ",
+      "type": "topup",
+      "amount": 15000,
+      "keterangan": "Topup Saldo oleh ＰＥＹＸ",
+      "waktu": "2026-05-10T14:07:41.246Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX2172507393",
+      "userId": "7661292905",
+      "userName": "ＰＥＹＸ",
+      "type": "topup",
+      "amount": 10000,
+      "keterangan": "Topup Saldo oleh ＰＥＹＸ",
+      "waktu": "2026-05-10T14:02:05.073Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX2039726167",
+      "userId": "7661292905",
+      "userName": "ＰＥＹＸ",
+      "type": "create",
+      "amount": 267,
+      "keterangan": "ＰＥＹＸ create SSH sdfs 1hr",
+      "waktu": "2026-05-10T13:39:57.261Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX2027689845",
+      "userId": "7661292905",
+      "userName": "ＰＥＹＸ",
+      "type": "create",
+      "amount": 267,
+      "keterangan": "ＰＥＹＸ create SSH noct 1hr",
+      "waktu": "2026-05-10T13:37:56.898Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX1900695877",
+      "userId": "7661292905",
+      "userName": "ＰＥＹＸ",
+      "type": "create",
+      "amount": 267,
+      "keterangan": "ＰＥＹＸ create SSH noct 1hr",
+      "waktu": "2026-05-10T13:16:46.958Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX1894217101",
+      "userId": "7661292905",
+      "userName": "ＰＥＹＸ",
+      "type": "create",
+      "amount": 267,
+      "keterangan": "ＰＥＹＸ create SSH noct 1hr",
+      "waktu": "2026-05-10T13:15:42.171Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX1605051326",
+      "userId": "7661292905",
+      "type": "payg_stop",
+      "amount": 0,
+      "keterangan": "User stop PAYG: premium (VMESS)",
+      "waktu": "2026-05-10T12:27:30.513Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX1600154225",
+      "userId": "7661292905",
+      "type": "payg_create",
+      "amount": 12,
+      "keterangan": "Aktivasi PAYG VMESS premium (Rp 12/jam)",
+      "waktu": "2026-05-10T12:26:41.542Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX0733239522",
+      "userId": "7661292905",
+      "userName": "ＰＥＹＸ",
+      "type": "topup",
+      "amount": 857000,
+      "keterangan": "Topup Saldo oleh ＰＥＹＸ",
+      "waktu": "2026-05-10T10:02:12.395Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX0557188765",
+      "userId": "7661292905",
+      "type": "payg_stop",
+      "amount": 0,
+      "keterangan": "User stop PAYG: waedwada (SSH)",
+      "waktu": "2026-05-10T09:32:51.887Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX0063349120",
+      "userId": "7661292905",
+      "userName": "ＰＥＹＸ",
+      "type": "admin_reduce",
+      "amount": 4988,
+      "keterangan": "Admin kurangi saldo dari ＰＥＹＸ",
+      "waktu": "2026-05-10T08:10:33.491Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX9912017842",
+      "userId": "7661292905",
+      "type": "payg_create",
+      "amount": 12,
+      "keterangan": "Aktivasi PAYG SSH waedwada (Rp 12/jam)",
+      "waktu": "2026-05-10T07:45:20.178Z",
+      "status": "success"
+    },
+    {
+      "txId": "TX9490300952",
+      "userId": "7661292905",
+      "userName": "ＰＥＹＸ",
+      "type": "topup",
+      "amount": 5000,
+      "keterangan": "Topup Saldo oleh ＰＥＹＸ",
+      "waktu": "2026-05-10T06:35:03.009Z",
+      "status": "success"
+    }
+  ],
+  "trial": {
+    "150430450": [
+      "2026-05-12T11:32:02.667Z"
+    ],
+    "215957266": [
+      "2026-05-15T16:48:56.337Z",
+      "2026-05-22T18:22:13.330Z"
+    ],
+    "930675610": [
+      "2026-05-16T13:18:05.735Z",
+      "2026-05-17T13:17:09.023Z",
+      "2026-05-21T23:57:34.022Z"
+    ],
+    "1117211252": [
+      "2026-05-18T03:59:16.183Z",
+      "2026-05-18T03:59:43.763Z"
+    ],
+    "2005622613": [
+      "2026-05-19T11:41:00.699Z"
+    ],
+    "7661292905": [
+      "2026-05-10T05:19:15.386Z",
+      "2026-05-10T09:09:21.673Z",
+      "2026-05-10T13:29:14.928Z",
+      "2026-05-10T13:29:37.221Z",
+      "2026-05-10T13:37:21.955Z",
+      "2026-05-10T23:07:33.215Z",
+      "2026-05-10T23:39:40.886Z",
+      "2026-05-11T00:03:14.542Z",
+      "2026-05-11T00:43:20.352Z",
+      "2026-05-11T03:46:41.623Z"
+    ],
+    "6103561207": [
+      "2026-05-10T09:58:15.808Z",
+      "2026-05-19T14:59:10.740Z"
+    ],
+    "8127231874": [
+      "2026-05-10T13:21:52.228Z",
+      "2026-05-13T13:54:46.788Z",
+      "2026-05-13T16:13:41.362Z",
+      "2026-05-16T19:08:33.916Z",
+      "2026-05-21T00:09:14.619Z",
+      "2026-05-21T02:10:51.445Z"
+    ],
+    "8319760856": [
+      "2026-05-10T14:00:32.498Z"
+    ],
+    "5940012136": [
+      "2026-05-11T15:31:38.338Z"
+    ],
+    "5853306102": [
+      "2026-05-11T15:34:08.382Z"
+    ],
+    "8605310717": [
+      "2026-05-12T08:31:21.554Z"
+    ],
+    "7899457432": [
+      "2026-05-12T12:11:50.717Z"
+    ],
+    "7874021308": [
+      "2026-05-12T18:09:04.232Z",
+      "2026-05-13T02:33:52.239Z"
+    ],
+    "6571086232": [
+      "2026-05-13T07:55:25.043Z"
+    ],
+    "7589800618": [
+      "2026-05-13T16:01:51.802Z"
+    ],
+    "6000202456": [
+      "2026-05-15T12:48:03.699Z"
+    ],
+    "8064750531": [
+      "2026-05-15T13:58:27.239Z"
+    ],
+    "7037779475": [
+      "2026-05-16T14:39:55.180Z"
+    ],
+    "8451473329": [
+      "2026-05-16T15:41:16.414Z",
+      "2026-05-16T15:50:04.141Z",
+      "2026-05-17T17:00:19.129Z"
+    ],
+    "8490959095": [
+      "2026-05-16T20:44:45.879Z"
+    ],
+    "7724790316": [
+      "2026-05-17T03:18:21.497Z",
+      "2026-05-20T17:00:25.027Z"
+    ],
+    "8334895098": [
+      "2026-05-17T05:59:36.165Z",
+      "2026-05-18T12:14:06.334Z"
+    ],
+    "5439040178": [
+      "2026-05-18T03:45:30.491Z"
+    ],
+    "8018158692": [
+      "2026-05-18T10:58:02.076Z"
+    ],
+    "5776500649": [
+      "2026-05-18T11:47:20.076Z"
+    ],
+    "8271933747": [
+      "2026-05-18T12:24:38.779Z",
+      "2026-05-21T07:28:45.858Z"
+    ],
+    "8557676925": [
+      "2026-05-18T15:56:56.651Z",
+      "2026-05-18T16:04:18.612Z",
+      "2026-05-20T12:46:22.127Z",
+      "2026-05-20T12:57:02.953Z",
+      "2026-05-22T11:42:28.522Z"
+    ],
+    "7761880504": [
+      "2026-05-20T09:30:28.456Z"
+    ],
+    "6319982927": [
+      "2026-05-21T21:58:26.280Z"
+    ],
+    "6410281684": [
+      "2026-05-22T20:44:11.327Z",
+      "2026-05-22T22:40:34.533Z"
+    ]
+  }
+}
